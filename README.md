@@ -17,7 +17,7 @@ Though I’m still early in my journey, I’m intentional about how I build. I p
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Portfolio: [portfolio-silk-one-24.vercel.app](https://portfolio-silk-one-24.vercel.app/)
 - LinkedIn: [linkedin.com/in/keatonmurray](https://linkedin.com/in/keatonmurray)
@@ -25,5 +25,5 @@ Though I’m still early in my journey, I’m intentional about how I build. I p
 
 ---
 
-> ⚡ I build tools, not clones.  
+> I build tools, not clones.  
 > If it’s not usable in production, I don’t ship it.
