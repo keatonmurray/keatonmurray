@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Keaton
+# About Me
 
 I like to build things that other developers or teams can actually use. I approach projects with a product development mindset — not just writing code, but designing tools that solve real-world problems.
 
@@ -8,7 +8,7 @@ Though I’m still early in my journey, I’m intentional about how I build. I p
 
 ---
 
-## 🔧 Tech Focus
+## Tech Focus
 - Headless WordPress / WooCommerce
 - Custom CMS development
 - REST & GraphQL APIs
